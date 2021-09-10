@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://github.com/hiteshcodes">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiteshcodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshcodes&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="162em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshcodes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
