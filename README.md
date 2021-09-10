@@ -21,7 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![hyper](https://img.shields.io/badge/-hyper%20termianl-05122A?style=flat&logo=hyper&logoColor=ffffff)\
 &nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=ffffff)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -36,6 +37,7 @@
 ### 🔌 &nbsp;Connect With Me
 
 <p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hiteshcodes" target="_blank">
     <img height="25em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> &nbsp;
     </a>
