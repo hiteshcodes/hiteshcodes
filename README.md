@@ -2,7 +2,7 @@
 
 - 💡 I like to explore new technologies.
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning backend development | MondoDb.
+- 🌱 I’m currently learning backend development | MongoDB.
 - ⚙️ I love to automate things.
 - 💬 Feel free to reach out to me for project discussion, sharing ideas.
 - 🎮 Valorant.
