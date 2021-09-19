@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/hiteshcodes">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiteshcodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hiteshcodes&hide=[%22issues%22]&show_icons=true&line_height=30&theme=algolia"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshcodes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -39,12 +39,13 @@
 <p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hiteshcodes" target="_blank">
-    <img height="25em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> &nbsp;
-    </a>
- <a href="mailto:hiteshcodes@gmail.com" target="_blank">
-    <img height="25em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/> &nbsp; 
-    </a>
-    <a href="https://www.instagram.com/hiteshcodes" target="_blank">
-    <img height="25em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
-    </a>
+<img height="25em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> &nbsp;
+</a>
+<a href="mailto:hiteshcodes@gmail.com" target="_blank">
+<img height="25em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/> &nbsp;
+</a>
+<a href="https://www.instagram.com/hiteshcodes" target="_blank">
+<img height="25em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
+</a>
+
 </p>
