@@ -1,4 +1,4 @@
-<h1>I'm Hitesh, a front-end developer.</h1>
+<h1>I'm Hitesh, Software developer.</h1>
 
 - 💡 I like to explore new technologies.
 - 🔭 I’m currently working on MERN stack.
