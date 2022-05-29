@@ -2,7 +2,7 @@
 
 - 💡 I like to explore new technologies.
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning backend development | MondoDb.
+- 🌱 I’m currently learning backend development | MongoDb.
 - ⚙️ I love to automate things.
 - 💬 Feel free to reach out to me for project discussion, sharing ideas.
 - 🎮 Valorant.
@@ -13,17 +13,19 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 &nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FEC260)&nbsp;
-![mongodb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb&logoColor=80ED99)&nbsp; \
-&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat)&nbsp;\
+&nbsp;&nbsp;&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FEC260)&nbsp;
+![mongodb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb&logoColor=80ED99)&nbsp;
+![redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=a32422)&nbsp; \
 &nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![hyper](https://img.shields.io/badge/-hyper%20termianl-05122A?style=flat&logo=hyper&logoColor=ffffff)\
-&nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=ffffff)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=ffffff)\
+&nbsp;&nbsp;&nbsp;&nbsp;![Apache-Solr](https://img.shields.io/badge/Solr-05122A?style=flat&logo=apache%20solr&logoColor=#ffffff)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
